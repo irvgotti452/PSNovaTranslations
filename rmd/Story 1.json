@@ -66,12 +66,12 @@
   },
   "100010020040008": {
     "OriginalText": "私はアークス特殊惑星探査隊オルター所属艦、\nデルタ・ヴァリアントのメディカルスタッフ、\nリーティアと申します。",
-    "Text": "This ship is the \"Delta Valiant\". We're the ARKS Special Planetary Exploration Team, \"Alter\". I'm Rietheia, I'm with the medical staff.",
+    "Text": "This ship is the \"Delta Valiant\". We're the\nARKS Special Planetary Exploration Team, \"Alter\".\nI'm Rietheia, I'm with the medical staff.",
     "Enabled": true
   },
   "100010020050008": {
     "OriginalText": "これより、簡単な記憶確認を行います。",
-    "Text": "Let's check to ensure that your memories\nare in working order.",
+    "Text": "Let's check to ensure that your memory is in\nworking order.",
     "Enabled": true
   },
   "100010020060008": {
@@ -171,7 +171,7 @@
   },
   "100010020230008": {
     "OriginalText": "驚きましたか？ 今のは感情のチェックです。\nあなたの感情は正常なようですね。\nふふっ、メンタルチェック、完了です！",
-    "Text": "Did I scare you? Good! I was checking on your\nemotions. It seems they are in order.\nHaha, mental check complete!",
+    "Text": "Did I scare you? Good! I was checking on\nyour emotions. It seems they are in order.\nHaha, mental check complete!",
     "Enabled": true
   },
   "100010020240008": {
